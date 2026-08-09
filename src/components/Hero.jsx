@@ -8,7 +8,7 @@ const ROLES = [
 ];
 
 // Place your own photo at frontend/public/fredcrop3.jpeg
-const PHOTO_SRC = "/fredblazer3.jpeg";
+const PHOTO_SRC = "/fredblazer.jpeg";
 // Place your resume (PDF or image) at frontend/public/fredrickresume.pdf (or .jpg)
 const RESUME_SRC = "/fredrick_resume.pdf";
 const RESUME_FILENAME = "fredrick_resume.pdf";
